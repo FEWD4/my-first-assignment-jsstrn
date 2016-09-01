@@ -1,3 +1,1 @@
-upperCase = text => text.toUpperCase()
-
-module.exports = upperCase
+module.exports = text => text.toUpperCase()
