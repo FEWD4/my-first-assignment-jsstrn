@@ -1,1 +1,1 @@
-module.exports = text => text.toUpperCase()
+module.exports = (text) => text.toUpperCase()
